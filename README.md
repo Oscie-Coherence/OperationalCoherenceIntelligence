@@ -122,4 +122,4 @@ Everything here is safe for open academic and scientific discussion.
 CITING THIS WORK
 If referencing Oscie in research:
 Lentz, C. (2025). Oscie: Operational Coherence Intelligence.  
-https://github.com/your-repo-here
+https://github.com/Oscie-Coherence/OperationalCoherenceIntelligence
