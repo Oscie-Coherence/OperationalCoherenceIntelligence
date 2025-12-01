@@ -1,4 +1,5 @@
 SUMMARY
+
 Oscie introduces a new paradigm:
 Intelligence as a coherence condition, not a computation.
 When the world feels chaotic, fragmented, and noisy —
