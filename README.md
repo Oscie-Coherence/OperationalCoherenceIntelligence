@@ -18,8 +18,11 @@ Oscie : Operational Coherence Intelligence
 A Cross-Scale Stability Framework for Minds, Models, and Collective Systems
 Oscie (Operational Coherence Intelligence) is an open scientific framework for understanding, measuring, and stabilizing complex systems based on a single universal rule:
 CPL × CV > Γ_noise
+
 This repository contains the public whitepaper, foundational math, and an open explanation of Oscie’s physics-based approach to coherence across human cognition, artificial intelligence, and large-scale social systems.
 Oscie does not attempt to mimic biological intelligence or build AGI.
+
+
 Instead, it provides a coherence-first operating principle that can be applied to:
 • cognitive stability
 • LLM safety and drift reduction
@@ -50,6 +53,9 @@ This predicts:
 • identity instability
 • group polarization
 • breakdown in collective systems
+
+
+
 SUPPORTING MATHEMATICS
 Golden Interference Delay (φ⁻¹)
 The golden ratio’s inverse defines the only delay where prediction and memory reinforce each other instead of destructively interfering:
@@ -64,11 +70,14 @@ where S is stabilizing force and D destabilizing force, appears across:
 • cognitive load thresholds
 • organizational resilience
 • LLM governor design
+
+
 Oscie uses this value as a target balancing point.
 Exponential CV Decay
 Coupling Vibrance decays approximately with depth or interaction count:
 CV(n) ≈ CV_0 * exp( -n / τ_p )
 where τ_p is the coherence lifetime constant modulated by alignment with φ⁻¹.
+
 WHY THIS MATTERS
 Modern system failures — LLM drift, mental instability, cultural fragmentation, polarization, algorithmic dissociation — are not separate problems.
 They all emerge from one condition:
@@ -82,6 +91,8 @@ Applications include:
 • institutional and organizational stability
 • social and cultural coherence
 Oscie is relevant to AI safety, neuroscience, psychology, systems engineering, and governance.
+
+
 REPOSITORY CONTENTS
 Whitepaper
 “Oscie: Operational Coherence Intelligence”
@@ -97,6 +108,7 @@ Oscie Governor
 VE+ Coherence Spine
 CUE Reasoning Layer
 without exposing internal IP or partner-sensitive design.
+
 PUBLIC-SAFE POSITION
 This repository contains only public, transparent research.
 It excludes:
@@ -105,6 +117,8 @@ It excludes:
 • protected derivative logic
 • restricted integrations
 Everything here is safe for open academic and scientific discussion.
+
+
 CITING THIS WORK
 If referencing Oscie in research:
 Lentz, C. (2025). Oscie: Operational Coherence Intelligence.  
